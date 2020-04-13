@@ -1,7 +1,6 @@
 body{
     font-family: 'Montserrat';
     text-align: center;
-
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -32,7 +31,6 @@ p{
 /*Title Image*/
 
 .title-image{
-
  transform: rotate(25deg);
  width: 60%;
  position: absolute;
@@ -137,35 +135,35 @@ p{
   padding: 7% 15%;
   }
 
-  #cta h1{
+#cta h1{
     color: #fff;
     width: 55%;
     position: relative;
     left: 20%;
     font-size: 3.5rem;
     line-height: 1.5;
-  }
+}
 
-  footer{
+footer{
     background-color: #fff;
     padding: 5% 15%;
-  }
+}
   .social-icons{
     margin: 20px 10px;
-  }
+}
 
-  .social-icons a{
+.social-icons a{
     color: grey;
-  }
+}
 
-  .list{
+.list{
     text-align:
-  }
+}
 
-  #footer a
-  {
+#footer a
+{
     color:grey;
-  }
+}
 
   #footer a.facebook:hover
   {
