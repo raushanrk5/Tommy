@@ -1,2 +1,2 @@
 # Tommy
-A website designed with Html, Css & Bootstrap about a fictional Dogs dating site. it is based on Tinder. Run it at: https://kumraushan.github.io/Tommy/
+A website designed using HTML, CSS & BOOTSTRAP about a fictional dogs dating site. It's based on Tinder. Run it at: https://kumraushan.github.io/Tommy/
